@@ -1,0 +1,27 @@
+# Eclipse
+.classpath
+.project
+.settings/
+ 
+# Intellij
+.idea/
+*.iml
+*.iws
+ 
+# Mac
+.DS_Store
+ 
+# Maven
+.mvn
+log/
+target/
+mvnw
+mvnw.cmd
+
+# Exercise
+output/
+input/
+
+# Stuff
+Latex/
+Ex2.iml
